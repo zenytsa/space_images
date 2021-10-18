@@ -195,8 +195,8 @@ __Дифракционная оптика__
 Теперь было бы неплохо увеличить чёткость (она же резкость) границ предметов на изображении. Инструментом Контурная резкость (Фильтр → Усиление резкости → Контурная резкость...) повышаем резкость на границах светлых и тёмных участков (рисунок 3.5).
 
 <div align="center">
-  <img src="https://github.com/zenytsa/SupportImages/blob/main/3.5(a).jpg" width="25%" title="Панель инструмента Усиление резкости"/>
-  <img src="https://github.com/zenytsa/SupportImages/blob/main/3.5(b).jpg" width="25%" title="Результат изменения"/>
+  <img src="https://github.com/zenytsa/space_images/blob/main/Images/3.5(a).jpg" width="25%" title="Панель инструмента Усиление резкости"/>
+  <img src="https://github.com/zenytsa/space_images/blob/main/Images/3.5(b).jpg" width="25%" title="Результат изменения"/>
   
   Рисунок 3.5 - Улучшение резкости границ
 </div>
